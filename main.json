@@ -1,0 +1,32 @@
+{
+    "name": "Gourmet Palace",
+    "short_name": "Restaurant",
+    "description": "Experience the finest dining at Gourmet Palace.",
+    "start_url": "./index.html",
+    "display": "standalone",
+    "background_color": "#f4f4f4",
+    "theme_color": "#4CAF50",
+    "icons": [
+        {
+            "src": "istockphoto-1214416414-612x612.jpg",
+            "sizes": "192x192",
+            "type": "image/jpg"
+        },
+        {
+            "src": "360_F_787979448_mgi8abtmOhlF3ibIgmC7WcNdp5izIA8q.jpg",
+            "sizes": "192x192",
+            "type": "image/jpg"
+        },
+        {
+            "src": "istockphoto-534139231-612x612.jpg",
+            "sizes": "192x192",
+            "type": "image/jpg"  
+        },
+        {
+            "src": "istockphoto-544716244-612x612.jpg",
+            "sizes": "192x192",
+            "type": "image/jpg" 
+        }
+    
+    ]
+}
